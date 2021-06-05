@@ -1,0 +1,20 @@
+np.random.RandomState(number) - для больших проектов
+np.random.seed(number) - для локальных проектов
+----------
+NVIDIA rapids
+cuML
+----------
+Ссылки:
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
+- https://habr.com/ru/company/ruvds/blog/494720/
+- https://www.sklearn.org/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.predict
+- https://www.sklearn.org/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+- https://www.sklearn.org/modules/tree.html#classification
+- https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_graphviz.html
+-----
+- https://colab.research.google.com/drive/1r6ff-1bEajh4Jx6jdlzb8VtxNS2onWRT#scrollTo=ibRoL-8v9fWy
+- https://colab.research.google.com/drive/1ekg3tt9dfp-bJijHQqzqlsalMCNavrY5#scrollTo=7TEhGyL1lHtn
+-----
+- https://notebook.community/andreyf/machine-learning-examples/decision_trees_knn/practice_trees_titanic
+- https://habr.com/ru/company/ods/blog/322534/
+- https://towardsdatascience.com/stop-using-numpy-random-seed-581a9972805f
